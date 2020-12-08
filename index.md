@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/abopen/librecellular.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Free and open source solutions now exist for every component that is required to create a 4G cellular (LTE) network, all the way from the radio access network (RAN) and core, to services which are used for integrated voice (VoLTE). Creating a fully functional mobile network is the next logical step, but this requires overcoming the final remaining technical hurdles. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project will provide end-to-end integration of a FOSS technology stack for 4G networks, via a validated hardware and software configuration that is subjected to appropriate testing. Together with additional tooling and documentation for repeatable deployment, the project will making it far easier to create a self-contained 4G network than ever before. This is particularly timely given the availability of low cost software-defined radio (SDR) hardware, coupled with the efforts of wireless regulators to provide increased access to spectrum for private and community LTE networks.
 
-### Markdown
+### Details and roadmap
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abopen/librecellular.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Further details, including an overall architecture and roadmap, will provided in due course (target 1st February 2021).
